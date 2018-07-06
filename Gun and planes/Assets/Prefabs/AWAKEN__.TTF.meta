@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d82cfb5f633bdce48af592ed4be2e3c4
+timeCreated: 1490133146
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Awaken
+  fontNames:
+  - Awaken
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

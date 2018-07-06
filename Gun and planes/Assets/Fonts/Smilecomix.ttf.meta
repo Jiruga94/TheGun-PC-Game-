@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a15ad54cbf99e0d4cad2137457204c8e
+timeCreated: 1500916870
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Smilecomix
+  fontNames:
+  - Smilecomix
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 46d9faaba06373f4e84eda8b8ff627b7
+timeCreated: 1500916877
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Something in the air
+  fontNames:
+  - Something in the air
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

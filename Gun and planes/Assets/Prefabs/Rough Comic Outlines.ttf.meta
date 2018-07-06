@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f48f91edf593e144ba2f73f83946fc78
+timeCreated: 1487274897
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rough Comic Outlines
+  fontNames:
+  - Rough Comic Outlines
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

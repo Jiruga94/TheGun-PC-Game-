@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c42328054d350ae43acaec7f2c920deb
+timeCreated: 1487276116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rustler
+  fontNames:
+  - Rustler
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e95c4bf1df5a87a4db54ac400cb5234b
+timeCreated: 1490128424
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kerberos Fang
+  fontNames:
+  - Kerberos Fang
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
