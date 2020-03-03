@@ -40,7 +40,7 @@ private AudioManager audioManager;
 		bigExplosion=FindObjectOfType<BigExplosion>();
 		healthPlayerBySlider=FindObjectOfType<HealthPlayerBySlider>();
 		timeToFog=Random.Range(35,40);
-		unknowCount=40.0f;
+		unknowCount=400.0f;
 		unknownRespawn=FindObjectOfType<UnknownRespawn>();
 		stopTimeCount=false;
 		frostFogDuration=20;
